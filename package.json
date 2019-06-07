@@ -1,0 +1,22 @@
+{
+  "name": "likang.pub",
+  "version": "1.0.0",
+  "description": "博客",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dustdu/likang.pub.git"
+  },
+  "author": "likang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dustdu/likang.pub/issues"
+  },
+  "homepage": "https://github.com/dustdu/likang.pub#readme",
+  "devDependencies": {
+    "vuepress": "^1.0.0-beta.2"
+  }
+}
